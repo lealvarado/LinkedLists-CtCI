@@ -3,7 +3,6 @@
 LinkedList Notes and Problem Solutions from Chapter 2 of Cracking the Coding Interview
 
 - [x] 2.1 Remove Dups
-- [x] 
 - [x] 2.2 Return Kth to Last
 - [x] 2.3 Delete Middle Node
 - [x] 2.4 Partition
